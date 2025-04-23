@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>19424225243-v52omirioufpr87teo1j158m3mgu3dga.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.19424225243-v52omirioufpr87teo1j158m3mgu3dga</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUMeoIkNUGMoTpnXx1uriNBqCP-Q0C-5E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>19424225243</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yourname.shazamclone</string>
+	<key>PROJECT_ID</key>
+	<string>shazam-1c5d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shazam-1c5d8.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:19424225243:ios:e94a22288a12c75fbd69fe</string>
+</dict>
+</plist>
